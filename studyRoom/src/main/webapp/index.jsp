@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<div>앞패블로그</div>
+	<div>앞패블로그테스트</div>
 	<form action = "/login.do" method="post">
 		<div>
 			아이디 : <input type="text">
